@@ -1,0 +1,16 @@
+[
+{
+  "modid": "phlmod",
+  "name": "Phantasialand-Mod",
+  "description": "Dieser Mod ermöglicht das Spielen auf dem Server von PhlFREAK_2000",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JoJoModding", "PhlFREAK_2000"],
+  "credits": "LexManos und den anderen Forge-Guys für das Programmieren von Minecraft Forge, die Schmitt-Löffelhardt-GmbH für das Bauen des Phantasialandes und vielen weiteren.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
